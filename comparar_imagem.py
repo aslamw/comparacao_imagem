@@ -1,7 +1,7 @@
 """
  detecção e descrição de características utilizando o algoritmo ORB (Oriented FAST and Rotated BRIEF) do OpenCV. 
  As características das imagens de referência e consulta são detectadas e descritas usando orb.detectAndCompute().
- Em seguida, utilizamos o objeto cv2.BFMatcher para realizar a correspondência das características entre as imagens.
+ Em seguida, utilo o objeto cv2.BFMatcher para realizar a correspondência das características entre as imagens.
 """
 
 import cv2
